@@ -11,6 +11,7 @@
         Return View()
     End Function
 
+    'contact
     Function Contact() As ActionResult
         ViewData("Message") = "Your contact page."
 
